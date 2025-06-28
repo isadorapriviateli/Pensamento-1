@@ -75,12 +75,6 @@ p {
 
 .decoracao-grega img {
   max-height: 80px;
-  width: 100px;
+  width: auto;
   margin: 10px 0;
-}
-
-.decoracao-grega p {
-  margin: 0;
-  font-weight: bold;
-  font-size: 1rem;
 }
