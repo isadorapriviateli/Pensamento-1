@@ -74,6 +74,7 @@ p {
 }
 
 .decoracao-grega img {
+  max-height: 80px;
   width: 100px;
   margin: 10px 0;
 }
