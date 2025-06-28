@@ -65,32 +65,20 @@ p {
 .categoria h2 {
     color: rgb(42, 138, 228);
 }
-.video-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: linear-gradient(to right, #a7d7c5, #e0f7fa);
-  padding: 20px;
-}
-
-.video-container iframe {
-  width: 70%;
-  height: 400px;
-  border: none;
-}
-
 .decoracao-grega {
-  width: 25%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 200px;
   text-align: center;
 }
 
 .decoracao-grega img {
   width: 100px;
-  margin-bottom: 10px;
+  margin: 10px 0;
 }
 
 .decoracao-grega p {
-  font-family: 'Georgia', serif;
-  color: #2c3e50;
+  margin: 0;
   font-weight: bold;
-}
+  font-size: 1rem;
