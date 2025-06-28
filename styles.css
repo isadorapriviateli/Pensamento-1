@@ -19,6 +19,8 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    min-height: 200px;
+    border: 2px darkblue
 }
 
 .chamada-texto {
