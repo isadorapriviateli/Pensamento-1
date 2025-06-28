@@ -2,7 +2,7 @@ body {
     color: white;
     background: black;
     margin: 0px;
-    font-family:"Times New Roman"; serif
+    font-family:"Times New Roman"; serif;
     margin-bottom: 100px;
 }
 
@@ -19,7 +19,6 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border: 2px dashed red;
 }
 
 .chamada-texto {
