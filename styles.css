@@ -78,3 +78,8 @@ p {
   width: 80px;
   margin: 10px 0;
 }
+.decoracao-grega p {
+  margin: 0;
+  font-weight: bold;
+  font-size: 1rem;
+}
