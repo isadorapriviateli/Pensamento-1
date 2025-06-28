@@ -19,7 +19,7 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    min-height: 200px;
+    min-height: 100px;
     border: 2px darkblue;
 }
 
