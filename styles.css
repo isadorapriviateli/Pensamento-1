@@ -23,7 +23,7 @@ header {
     border: 2px darkblue;
 }
 .video {
-    max-height: 90%;
+    max-height: 150px;
     margin-top: 20px;
     display: flex;
     justify-content: center;
@@ -83,3 +83,4 @@ p {
   margin: 0;
   font-weight: bold;
   font-size: 1rem;
+}
