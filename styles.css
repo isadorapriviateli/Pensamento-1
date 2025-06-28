@@ -2,38 +2,32 @@ body {
     color: white;
     background: black;
     margin: 0px;
-    font-family:"Times New Roman"; serif;
+    font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(0, 142, 207);
+    border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(0, 155, 202);
+    color: rgb(42, 122, 228);
 }
 
 .chamada {
-    background: rgb(171, 241, 253) !important;
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    overflow: hidden;
-    box-sizing: border-box;
-    height: 400px;
-    border: 2px darkblue;
+    justify-content: center;
 }
 .video {
-    max-height: 150px;
     margin-top: 20px;
     display: flex;
     justify-content: center;
 }
 
 .chamada-texto {
-    margin-right: 8%;
+    margin-right: 5%;
 }
 
 h1 {
@@ -63,27 +57,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(0, 126, 175);
+    border: 3px solid green;
 }
 
 .categoria h2 {
-    color: rgb(42, 138, 228);
-}
-.decoracao-grega {
-  padding: 20px;
-  border-radius: 15px;
-  max-width: 200px;
-  text-align: center;
-  max-height: 50px;
-}
-
-.decoracao-grega img {
-  width: 100px;
-  margin: 10px 0;
-}
-
-.decoracao-grega p {
-  margin: 0;
-  font-weight: bold;
-  font-size: 1rem;
+    color: rgb(42, 122, 228);
 }
