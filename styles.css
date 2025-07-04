@@ -63,3 +63,15 @@ p {
 .categoria h2 {
     color: rgb(123, 253, 255);
 }
+.decoracao-grega {
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 200px;
+  text-align: center;
+  max-height: 50px;
+}
+
+.decoracao-grega img {
+  width: 100px;
+  margin: 10px 0;
+}
